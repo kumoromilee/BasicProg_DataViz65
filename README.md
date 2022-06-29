@@ -2,5 +2,6 @@
 รวบรวมงานวิชา  SC663401 : Basic Programming for Data Science and Data Visualization ของ กัลยรัตน์ บุญกอง ID6330205489
 
 # Grading
-![grading image](Grading(1).ipg)
+![grading image](Grading.jpg)
+
 
